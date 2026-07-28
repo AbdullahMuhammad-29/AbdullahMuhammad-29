@@ -24,4 +24,8 @@
 ---
 [![](https://komarev.com/ghpvc/?username=AbdullahMuhammad-29&icon=9&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdullahMuhammad-29/AbdullahMuhammad-29/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
